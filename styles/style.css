@@ -29,14 +29,13 @@ body, html {
 body {
     display: flex;
     justify-content: center;
-    align-items: center;
 }
 
 .conteudo_principal {
     display: flex;
     flex-flow: row wrap;
     background-color: #fff;
-    width: 320px;
+    width: 400px;
     height: 500px;
     border-radius: 50px 30px 30px 50px;
     box-shadow: #322cea36 5px 9px 20px 1px;
@@ -51,7 +50,7 @@ body {
     background-image: linear-gradient(to top, #312CEA, #6743FF);
     height: 500px;
     width: 500px;
-    border-radius: 30px;
+    border-radius: 0px 0px 30px 30px;
 
 }
 
