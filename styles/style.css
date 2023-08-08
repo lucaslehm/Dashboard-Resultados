@@ -20,22 +20,18 @@ Extra large screens, TV – 1201px, and more. */
     font-family: 'Lexend Deca', sans-serif;
 }
 
-body, html {
-    width: 100vw;
-    height: 100vh;
-    background-color: #fff;
-}
-
 body {
     display: flex;
+    height: 1000px;
     justify-content: center;
+    background-color: #fff;
 }
 
 .conteudo_principal {
     display: flex;
     flex-flow: row wrap;
     background-color: #fff;
-    width: 380px;
+    width: 360px;
     height: 500px;
     border-radius: 50px 30px 30px 50px;
     box-shadow: #322cea36 5px 9px 20px 1px;
