@@ -35,7 +35,7 @@ body {
     display: flex;
     flex-flow: row wrap;
     background-color: #fff;
-    width: 400px;
+    width: 380px;
     height: 500px;
     border-radius: 50px 30px 30px 50px;
     box-shadow: #322cea36 5px 9px 20px 1px;
